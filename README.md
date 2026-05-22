@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've around 4 Years of industry experience in the area of Software Testing (Manual and Automation) with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting & Tracking
+I've around 5 Years of industry experience in the area of Software Testing (Manual and Automation) with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting & Tracking
 
 
 ## 🌐 Socials:
